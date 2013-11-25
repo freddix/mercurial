@@ -1,6 +1,6 @@
 Summary:	Distributed SCM
 Name:		mercurial
-Version:	2.7.2
+Version:	2.8
 Release:	1
 License:	GPL v2
 Group:		Development/Version Control
