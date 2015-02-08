@@ -1,11 +1,11 @@
 Summary:	Distributed SCM
 Name:		mercurial
-Version:	3.2.2
+Version:	3.3
 Release:	1
 License:	GPL v2
 Group:		Development/Version Control
 Source0:	http://www.selenic.com/mercurial/release/%{name}-%{version}.tar.gz
-# Source0-md5:	51305e11767a4c334a1e685c1f8f42b5
+# Source0-md5:	9d158d96aef4ad02cc3c15509257d13b
 URL:		http://www.selenic.com/mercurial/
 BuildRequires:	asciidoc
 BuildRequires:	gettext-devel
